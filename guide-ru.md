@@ -239,7 +239,7 @@ tmpfs                                     /tmp           tmpfs   defaults,noatim
 
 ## ДРАЙВЕР
 
-![я ненавижу нвидию](20240420_10h08m13s_grim.png)
+![я ненавижу нвидию](src/20240420_10h08m13s_grim.png)
 
 ## GSDK
 
